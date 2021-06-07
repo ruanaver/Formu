@@ -1,0 +1,15 @@
+form.login
+{
+	background-color: gray;
+	font: 11px Verdana, sans-seref;
+	color: black;
+	border: 2px solid gren;
+	padding-left: 10px;
+}
+.campos
+{
+	background-color: white;
+	font: 11px Verdana, sans-seref;
+	color: black;
+	margin-left: 1px;
+}

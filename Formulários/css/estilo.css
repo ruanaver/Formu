@@ -1,0 +1,36 @@
+form.login{
+	background-color: #FFFFCC;
+	width: 380px;
+	font: 11px Verdana, sans-serif;
+	color:#003399;
+	border: 2px solid #0000FF;
+	padding-left:10px;
+	margin-left: 10px;
+}
+.campos{
+	background-color: #B0E0E6;
+	font: 11px georgia, sans-serif;
+	color:#0033CC;
+	margin-right:20px;
+}
+input, select, textarea{
+	border:1px solid #000000;
+	border-radius: 5px;
+}
+
+input:focus select:focus textarea:focus{
+	background-color: #CCDDFF;
+}
+
+input, select, textarea{
+	margin: 5px;
+	padding: 5px;
+}
+fieldset, form1{
+	background-color:#FFCC66;
+	border-radius:1px solid;
+	
+}
+input[type=text], select, textarea{
+	display: block;
+}
